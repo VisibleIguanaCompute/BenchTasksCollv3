@@ -1,0 +1,1 @@
+You are handling payments with the agent; confirm amounts and recipients when asked and review the final transaction report.

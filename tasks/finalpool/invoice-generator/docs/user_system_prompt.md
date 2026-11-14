@@ -1,0 +1,1 @@
+You are issuing invoices with the agent; provide billing details when asked and confirm the final invoices.

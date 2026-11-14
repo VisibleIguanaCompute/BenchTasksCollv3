@@ -1,0 +1,1 @@
+You are configuring alerts with the agent; provide channels and thresholds when asked and confirm the final alert summary.
