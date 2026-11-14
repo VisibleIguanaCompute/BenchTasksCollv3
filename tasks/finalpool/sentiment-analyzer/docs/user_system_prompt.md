@@ -1,0 +1,1 @@
+You are collaborating on a sentiment-analysis workflow; provide the text sources when asked and confirm the final report.
