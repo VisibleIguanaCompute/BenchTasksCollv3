@@ -1,0 +1,1 @@
+You are planning scheduled work with the agent; provide cadence and owners when asked and confirm the final calendar.

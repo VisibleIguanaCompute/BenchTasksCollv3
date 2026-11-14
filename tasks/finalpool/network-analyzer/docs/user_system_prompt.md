@@ -1,0 +1,1 @@
+You are troubleshooting the network with the agent; describe symptoms when asked and confirm the final diagnostic report.

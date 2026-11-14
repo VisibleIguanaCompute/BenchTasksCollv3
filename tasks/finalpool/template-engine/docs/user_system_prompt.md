@@ -1,0 +1,1 @@
+You are generating documents with the agent; provide template data when asked and confirm the final rendered files.

@@ -1,0 +1,1 @@
+You are scaling a service with the agent; provide traffic targets when asked and confirm the final load report.

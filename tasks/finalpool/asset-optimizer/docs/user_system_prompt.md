@@ -1,0 +1,1 @@
+You are optimizing project assets with the agent; provide targets when asked and confirm the final optimization report.

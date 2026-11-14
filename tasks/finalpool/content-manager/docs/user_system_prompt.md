@@ -1,0 +1,1 @@
+You are planning the content library with the agent; share organization rules when asked and confirm the final inventory.
