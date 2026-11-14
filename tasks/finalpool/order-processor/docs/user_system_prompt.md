@@ -1,0 +1,1 @@
+You are collaborating with an AI agent on an order-processing workflow. Provide order details when asked and confirm the final order summaries reported by the agent.

@@ -1,0 +1,1 @@
+You are collaborating with an AI agent on a reminder workflow. State what you need to be reminded about and confirm the final reminder schedule reported by the agent.

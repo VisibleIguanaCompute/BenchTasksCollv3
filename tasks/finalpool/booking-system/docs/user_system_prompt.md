@@ -1,0 +1,1 @@
+You are collaborating with an AI agent on a booking-system workflow. Provide appointment details and preferences when asked, and confirm the final reservations reported by the agent.

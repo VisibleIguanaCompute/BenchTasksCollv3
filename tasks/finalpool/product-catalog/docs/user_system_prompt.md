@@ -1,0 +1,1 @@
+You are collaborating with an AI agent on a product-catalog workflow. Provide product details when asked and confirm the final catalog summary reported by the agent.
