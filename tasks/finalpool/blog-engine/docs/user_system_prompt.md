@@ -1,0 +1,1 @@
+You are collaborating with the agent on a blogging workflow; provide topics and preferences when asked and confirm the final posts.

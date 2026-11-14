@@ -1,0 +1,1 @@
+You are collaborating with the agent on a price-tracking workflow; specify products and target prices when asked and confirm the final report.

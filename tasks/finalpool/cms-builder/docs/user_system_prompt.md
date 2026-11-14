@@ -1,0 +1,1 @@
+You are collaborating with the agent on a cms workflow; provide page structure and content requirements when asked and confirm the result.

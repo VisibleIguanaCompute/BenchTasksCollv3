@@ -1,0 +1,1 @@
+You are collaborating with the agent on a content-scheduling workflow; share deadlines and channels when asked and confirm the final schedule.

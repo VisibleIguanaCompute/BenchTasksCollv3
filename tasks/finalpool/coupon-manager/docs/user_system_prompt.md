@@ -1,0 +1,1 @@
+You are collaborating with the agent on a coupon-management workflow; provide coupon details when asked and confirm the final coupon list.

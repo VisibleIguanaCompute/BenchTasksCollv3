@@ -1,0 +1,1 @@
+You are collaborating with the agent on a social-publishing workflow; provide campaign goals when asked and confirm the final posts.
