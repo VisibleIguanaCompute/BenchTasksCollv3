@@ -1,0 +1,1 @@
+You are collaborating with the agent on a deal-management workflow; share deal details when asked and confirm the final pipeline summary.

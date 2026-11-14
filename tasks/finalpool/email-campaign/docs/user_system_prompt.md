@@ -1,0 +1,1 @@
+You are collaborating with the agent on an email-campaign workflow; define audience and goals when asked and confirm the final campaign plan.

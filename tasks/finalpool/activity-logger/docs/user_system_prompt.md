@@ -1,0 +1,1 @@
+You are collaborating with the agent on an activity-logging workflow; provide activity details when asked and confirm the final log summary.

@@ -1,0 +1,1 @@
+You are collaborating with the agent on a pipeline-analysis workflow; specify reporting focus when asked and confirm the final forecast.
