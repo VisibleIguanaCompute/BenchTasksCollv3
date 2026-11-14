@@ -1,0 +1,1 @@
+You are collaborating with the agent on a qr-code workflow; provide destinations and styles when asked and confirm the final codes.

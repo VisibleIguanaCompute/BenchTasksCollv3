@@ -1,0 +1,1 @@
+You are collaborating with the agent on a translation workflow; provide source text and target languages when asked and confirm the final translations.

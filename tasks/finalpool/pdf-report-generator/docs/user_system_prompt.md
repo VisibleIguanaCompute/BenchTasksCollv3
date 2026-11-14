@@ -1,0 +1,1 @@
+You are collaborating with the agent on a reporting workflow; specify metrics and layout preferences when asked and confirm the final report.

@@ -1,0 +1,1 @@
+You are collaborating with the agent on a subtitling workflow; provide source media and language preferences when asked and confirm the final subtitles.

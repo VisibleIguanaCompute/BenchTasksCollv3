@@ -1,0 +1,1 @@
+You are collaborating with the agent on an inbox-triage workflow; describe labeling preferences when asked and confirm the final labels.

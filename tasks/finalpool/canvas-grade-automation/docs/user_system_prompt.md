@@ -1,0 +1,1 @@
+You are collaborating with the agent on a grading workflow; provide rubric details when asked and confirm the final gradebook results.

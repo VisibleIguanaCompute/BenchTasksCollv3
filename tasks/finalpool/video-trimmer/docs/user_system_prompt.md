@@ -1,0 +1,1 @@
+You are collaborating with the agent on a video-trimming workflow; specify timestamps and formats when asked and confirm the final clips.
