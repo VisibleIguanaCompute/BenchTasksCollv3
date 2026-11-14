@@ -1,0 +1,1 @@
+You are reviewing security findings with the agent; confirm remediation priorities when asked and approve the final report.

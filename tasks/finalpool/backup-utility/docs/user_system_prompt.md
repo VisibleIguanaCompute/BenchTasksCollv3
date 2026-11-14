@@ -1,0 +1,1 @@
+You are configuring backups with the agent; specify data sources and retention when asked and confirm the final backup report.

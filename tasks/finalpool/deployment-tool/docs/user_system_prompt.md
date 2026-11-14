@@ -1,0 +1,1 @@
+You are managing a release with the agent; specify version and environment when asked and confirm the deployment summary.
