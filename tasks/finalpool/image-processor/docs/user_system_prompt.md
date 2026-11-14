@@ -1,0 +1,1 @@
+You are submitting images for processing; specify sizes and formats when asked and confirm the final outputs.

@@ -1,0 +1,1 @@
+You are querying the local knowledge base; refine queries when asked and confirm the final search results.

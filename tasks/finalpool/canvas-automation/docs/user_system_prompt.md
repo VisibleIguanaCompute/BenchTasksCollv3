@@ -1,0 +1,1 @@
+You are collaborating on course-automation tasks; provide course details when asked and confirm the final action report.
